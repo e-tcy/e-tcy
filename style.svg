@@ -3,16 +3,17 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             :root {
-              text-decoration: none
-              color: #db80ff
+              text-decoration: none;
+              color: #db80ff;
             }
             </style>
             
-          <h1>my portfolio lmao</h1>
-          <ul><li> <a href="https://github.com/e-tcy/GXPack">Made a shitty bat script</a> to automate setting up my laptop<br>
-          <li> Translating <a href=https://github.com/pizzaboxer/bloxstrap/">Bloxstrap</a> to Russian<br>
-          <li> A member of the <a href=https://github.com/fleasion/">Fleasion</a> team<br>
-
+            <h1>my portfolio lmao</h1>
+            <ul>
+                <li><a href="https://github.com/e-tcy/GXPack">Made a shitty bat script</a> to automate setting up my laptop</li>
+                <li>Translating <a href="https://github.com/pizzaboxer/bloxstrap/">Bloxstrap</a> to Russian</li>
+                <li>A member of the <a href="https://github.com/fleasion/">Fleasion</a> team</li>
+            </ul>
         </div>
     </foreignObject>
 </svg>
