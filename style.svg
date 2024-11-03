@@ -1,13 +1,25 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 300 300" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
+            @font-face {
+                font-family: 'JetBrains Mono';
+                src: url('misc/fonts/JetBrainsMono-Light.woff2') format('woff2'); 
+                font-weight: lighter;
+                font-style: normal;
+            }
+                
             :root {
-              text-decoration: none;
-              color: #db80ff;
+                white-space: nowrap;
+                text-decoration: none;
+                font-family: 'JetBrains Mono', monospace;
+                background-image: linear-gradient(to bottom, #0a1a35, #1b3564, #0a1a35);
+                color: #7b7acf;
+                font-weight: lighter;
+                font-style: normal
             }
             </style>
-            
+
             <h1>my portfolio lmao</h1>
             <ul>
                 <li><a href="https://github.com/e-tcy/GXPack">Made a shitty bat script</a> to automate setting up my laptop</li>
