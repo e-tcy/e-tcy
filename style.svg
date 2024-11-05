@@ -13,19 +13,20 @@
                 white-space: nowrap;
                 text-decoration: none;
                 font-family: 'JetBrains Mono', monospace;
-                background-image: linear-gradient(to bottom, #0a1a35, #1b3564, #0a1a35);
                 color: #7b7acf;
                 font-weight: lighter;
                 font-style: normal
             }
             </style>
+            <div align="left">
+                <h1>my portfolio lmao</h1>
+                <ul>
+                    <li><a href="https://github.com/e-tcy/GXPack">Made a shitty bat script</a> to automate setting up my laptop</li>
+                    <li>Translating <a href="https://github.com/pizzaboxer/bloxstrap/">Bloxstrap</a> to Russian</li>
+                    <li>A member of the <a href="https://github.com/fleasion/">Fleasion</a> team</li>
+                </ul>
+            </div>
 
-            <h1>my portfolio lmao</h1>
-            <ul>
-                <li><a href="https://github.com/e-tcy/GXPack">Made a shitty bat script</a> to automate setting up my laptop</li>
-                <li>Translating <a href="https://github.com/pizzaboxer/bloxstrap/">Bloxstrap</a> to Russian</li>
-                <li>A member of the <a href="https://github.com/fleasion/">Fleasion</a> team</li>
-            </ul>
         </div>
     </foreignObject>
 </svg>
