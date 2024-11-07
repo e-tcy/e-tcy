@@ -4,7 +4,7 @@
             <style>
             @font-face {
                 font-family: 'JetBrains Mono';
-                src: url('misc/fonts/JetBrainsMono-Light.woff2') format('woff2'); 
+                src: url('JetBrainsMono-Light.woff2') format('woff2'); 
                 font-weight: lighter;
                 font-style: normal;
             }
@@ -16,7 +16,7 @@
                 background: #000000;
                 color: #7b7acf;
                 font-weight: lighter;
-                font-style: normal
+                font-style: normal;
             }
             </style>
             <div align="left">
@@ -32,7 +32,6 @@
                     <img src="https://github-readme-stats.vercel.app/api?username=e-tcy" alt="stats">
                 </a>
             </div>
-            
         </div>
     </foreignObject>
 </svg>
