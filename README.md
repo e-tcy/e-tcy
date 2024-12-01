@@ -1,18 +1,30 @@
 
 
 <html>
+    
 <div align="left">
-    <h1>portfolio</h1>
-    <ul>
-        <li>Made a <a href="https://github.com/e-tcy/GXPack">bat script</a> to automate setting up my laptop (don't use it please use something like <a href="https://github.com/marticliment/UniGetUI/releases/latest">UniGetUI</a> pleeease)</li>
-        <li>Translating <a href="https://github.com/pizzaboxer/bloxstrap/">Bloxstrap</a> to Russian</li>
+    <h1>hi, i make music and stuff</h1>
         <li>A member of the <a href="https://github.com/fleasion/">Fleasion</a> team</li>
-    </ul>
+        <li>Translating <a href="https://github.com/pizzaboxer/bloxstrap/">Bloxstrap</a> to Russian</li>
     <br>
-    <h1>stats</h1>
+</div>
+
+    
+<div>
+    <h1>discord stuff</h1>
+    <img src="http://invidget.switchblade.xyz/UhQrGQUgxy" alt="3tcy's paradox">
+    <br>
+    <img src="http://invidget.switchblade.xyz/ZH6TcsszrB" alt="GX_">
+</div>
+
+<br>
+
+<div>
+    <h1>mid github stats</h1>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=e-tcy" alt="stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=e-tcy&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="e-tcy's GitHub Stats" />
     </a>
 </div>
+
 </html>
 
