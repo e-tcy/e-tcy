@@ -13,8 +13,6 @@
 <div>
     <h1>discord stuff</h1>
     <img src="http://invidget.switchblade.xyz/UhQrGQUgxy" alt="3tcy's paradox">
-    <br>
-    <img src="http://invidget.switchblade.xyz/ZH6TcsszrB" alt="GX_">
 </div>
 
 <br>
